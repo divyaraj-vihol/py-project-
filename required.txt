@@ -1,4 +1,0 @@
->install  Wikipedia(This library provides a more structured way to access Wikipedia content, allowing you to retrieve page content, summaries, and other metadata easily.
-
-wikipedia: This library is simpler and allows you to quickly get summaries and full page content with fewer lines of code.)
->install wolframalpha(WolframAlpha in Python refers to the use of the Wolfram Alpha API, which allows developers to access its computational knowledge engine programmatically. This can be done using libraries like wolframalpha, enabling users to perform complex calculations, retrieve data, and generate visualizations directly within Python applications. ### Getting Started with WolframAlpha in Python)
